@@ -1,5 +1,5 @@
 _repo: Golden-Fleece-The-American-Adventures-of-a-Fortune-Hunting-Earl_64301
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Fisher, Harrison
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '25149'
     url: http://www.gutenberg.org/2009/agents/25149
     wikipedia: https://en.wikipedia.org/wiki/Harrison_Fisher
+covers:
+- cover_type: archival
+  image_path: 64301-h/images/cover.jpg
 creator:
   author:
     agent_name: Phillips, David Graham
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/235
     wikipedia: https://en.wikipedia.org/wiki/David_Graham_Phillips
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64301#Golden-Fleece-The-American-Adventures-of-a-Fortune-Hunting-Earl
 gutenberg_issued: '2021-01-15'
 gutenberg_type: Text
 identifiers:
